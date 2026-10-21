@@ -1,226 +1,64 @@
 [
   {
-    "id": "rocket-one-signals",
-    "name": "Rocket One Signals",
-    "category": "mt5",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "MT5",
+    "id": "anwar-badran-scalping-mt4",
+    "name": "Anwar Badran Scalping 5m MT4 Tickmill",
+    "nameEn": "Anwar Badran Scalping 5m MT4 Tickmill",
+    "category": "mt4",
+    "version": "2.04",
+    "updated": "2026-10-22",
+    "platform": "MetaTrader 4",
     "type": "indicator",
     "featured": true,
-    "image": "assets/images/products/rocket-one.svg",
-    "description": "مؤشر إشارات تداول لمنصة MetaTrader 5. أضف وصف المنتج النهائي ومميزاته قبل النشر.",
-    "descriptionEn": "A trading signals indicator for MetaTrader 5. Add the final product description and features before publishing.",
+    "image": "assets/images/products/scalping-mt4.svg",
+    "description": "مؤشر تداول لمستخدمي MetaTrader 4، موجه للعمل على إطار الخمس دقائق ضمن بيئة Tickmill المستهدفة. أداة مساعدة للتحليل ومتابعة السوق؛ لا تضمن النتائج ولا تستبدل حكم المتداول وإدارة المخاطر.",
+    "descriptionEn": "A trading indicator for MetaTrader 4 users, intended for the 5-minute timeframe in the target Tickmill environment. It is an aid for market analysis and monitoring; it does not guarantee outcomes or replace trader judgment and risk management.",
     "features": [
-      "إشارات مرئية على الرسم البياني",
-      "مصمم لمنصة MetaTrader 5",
-      "رابط تنزيل مباشر قابل للتخصيص"
+      "متوافق مع منصة MetaTrader 4",
+      "إطار التداول المستهدف: 5 دقائق",
+      "الإصدار 2.04",
+      "رابط تنزيل مباشر من GitHub Releases"
     ],
     "featuresEn": [
-      "Visual signals on the chart",
-      "Designed for MetaTrader 5",
-      "Configurable direct download link"
+      "For MetaTrader 4",
+      "Intended timeframe: 5 minutes",
+      "Version 2.04",
+      "Direct download from GitHub Releases"
     ],
-    "requirements": "MetaTrader 5 على Windows",
-    "requirementsEn": "MetaTrader 5 on Windows",
-    "downloadUrl": "",
-    "fileName": "RocketOneSignals.ex5",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف EX5."
+    "requirements": "MetaTrader 4 على Windows. يرجى التأكد من توافق الملف مع إصدار منصتك.",
+    "requirementsEn": "MetaTrader 4 on Windows. Please confirm compatibility with your terminal build.",
+    "downloadUrl": "https://github.com/anwarbadran/Forex/releases/download/mt4-v2.04/Anwar%20Badran%20Scalping%205m%20MT4%20Tickmill%20ver2_04.ex4",
+    "fileName": "Anwar Badran Scalping 5m MT4 Tickmill ver2_04.ex4",
+    "downloadNote": "سيبدأ التنزيل مباشرة بعد نشر ملف الإصدار على GitHub Releases باستخدام الوسم mt4-v2.04."
   },
   {
-    "id": "rocket-two",
-    "name": "Rocket Two",
+    "id": "anwar-badran-scalping-mt5",
+    "name": "Anwar Badran Scalping 5m MT5 Tickmill",
+    "nameEn": "Anwar Badran Scalping 5m MT5 Tickmill",
     "category": "mt5",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "MT5",
+    "version": "2.00",
+    "updated": "2026-10-22",
+    "platform": "MetaTrader 5",
     "type": "indicator",
     "featured": true,
-    "image": "assets/images/products/rocket-two.svg",
-    "description": "مؤشر لرسم نطاق أعلى وأدنى شمعة الأربع ساعات، وفق إعدادات المنتج المعتمدة.",
-    "descriptionEn": "An indicator for displaying the high and low range of a four-hour candle, based on the product's configured behavior.",
+    "image": "assets/images/products/scalping-mt5.svg",
+    "description": "مؤشر تداول لمستخدمي MetaTrader 5، موجه للعمل على إطار الخمس دقائق ضمن بيئة Tickmill المستهدفة. أداة مساعدة للتحليل ومتابعة السوق؛ لا تضمن النتائج ولا تستبدل حكم المتداول وإدارة المخاطر.",
+    "descriptionEn": "A trading indicator for MetaTrader 5 users, intended for the 5-minute timeframe in the target Tickmill environment. It is an aid for market analysis and monitoring; it does not guarantee outcomes or replace trader judgment and risk management.",
     "features": [
-      "عرض مستويات النطاق على الشارت",
-      "مخصص لمنصة MetaTrader 5",
-      "إعدادات قابلة للتخصيص حسب الإصدار"
+      "متوافق مع منصة MetaTrader 5",
+      "إطار التداول المستهدف: 5 دقائق",
+      "الإصدار 2.00",
+      "رابط تنزيل مباشر من GitHub Releases"
     ],
     "featuresEn": [
-      "Displays range levels on chart",
       "For MetaTrader 5",
-      "Configurable settings depending on release"
+      "Intended timeframe: 5 minutes",
+      "Version 2.00",
+      "Direct download from GitHub Releases"
     ],
-    "requirements": "MetaTrader 5",
-    "requirementsEn": "MetaTrader 5",
-    "downloadUrl": "",
-    "fileName": "RocketTwo.ex5",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف EX5."
-  },
-  {
-    "id": "xsig-core",
-    "name": "XSIG CORE",
-    "category": "mt4mt5",
-    "version": "1.2",
-    "updated": "2026-10-21",
-    "platform": "MT4 / MT5",
-    "type": "indicator",
-    "featured": true,
-    "image": "assets/images/products/xsig-core.svg",
-    "description": "مؤشر تحليل وإشارات متعدد المنصات. راجع وصف النسخة الفعلية قبل توزيعها.",
-    "descriptionEn": "A multi-platform analysis and signals indicator. Review the actual build description before distribution.",
-    "features": [
-      "تصنيف واضح لإصدار المنتج",
-      "صفحة مستقلة للتفاصيل",
-      "إمكانية توفير نسخ MT4 وMT5"
-    ],
-    "featuresEn": [
-      "Clear version information",
-      "Dedicated product details page",
-      "MT4 and MT5 builds can be provided"
-    ],
-    "requirements": "MetaTrader 4 أو MetaTrader 5 حسب الملف",
-    "requirementsEn": "MetaTrader 4 or MetaTrader 5 depending on the file",
-    "downloadUrl": "",
-    "fileName": "XSIG_CORE.zip",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملفات المنتج."
-  },
-  {
-    "id": "macro-trend",
-    "name": "Macro Trend",
-    "category": "mt5",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "MT5",
-    "type": "indicator",
-    "featured": false,
-    "image": "assets/images/products/macro-trend.svg",
-    "description": "صفحة عرض لمؤشر اتجاهات السوق. حدّث الوصف وفق خصائص المنتج الحقيقية.",
-    "descriptionEn": "A showcase entry for a market trend indicator. Update the description to match the actual product features.",
-    "features": [
-      "عرض معلومات الإصدار",
-      "رابط تنزيل قابل للتخصيص",
-      "واجهة عربية وإنجليزية"
-    ],
-    "featuresEn": [
-      "Version information",
-      "Configurable download link",
-      "Arabic and English interface"
-    ],
-    "requirements": "MetaTrader 5",
-    "requirementsEn": "MetaTrader 5",
-    "downloadUrl": "",
-    "fileName": "MacroTrend.ex5",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف EX5."
-  },
-  {
-    "id": "micro-scalp",
-    "name": "Micro Scalp",
-    "category": "mt5",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "MT5",
-    "type": "indicator",
-    "featured": false,
-    "image": "assets/images/products/micro-scalp.svg",
-    "description": "بطاقة تعريفية لمؤشر تداول. استخدمها بعد التأكد من وصف المنتج وملف التوزيع.",
-    "descriptionEn": "A product listing for a trading indicator. Use it after confirming the product description and distributable file.",
-    "features": [
-      "معلومات المنتج والإصدار",
-      "متطلبات التشغيل",
-      "تنزيل مباشر عند ضبط الرابط"
-    ],
-    "featuresEn": [
-      "Product and version details",
-      "System requirements",
-      "Direct download when the URL is configured"
-    ],
-    "requirements": "MetaTrader 5",
-    "requirementsEn": "MetaTrader 5",
-    "downloadUrl": "",
-    "fileName": "MicroScalp.ex5",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف EX5."
-  },
-  {
-    "id": "fibonacci-tools",
-    "name": "Fibonacci Tools",
-    "category": "trading-tools",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "MT4 / MT5",
-    "type": "tool",
-    "featured": false,
-    "image": "assets/images/products/fibonacci-tools.svg",
-    "description": "مجموعة أدوات فيبوناتشي للتداول. أضف تفاصيل الملف النهائي وطريقة التثبيت قبل النشر.",
-    "descriptionEn": "A set of Fibonacci trading tools. Add final file details and installation instructions before publishing.",
-    "features": [
-      "أدوات مساعدة للتحليل",
-      "تفاصيل إصدار واضحة",
-      "ملف تنزيل قابل للربط"
-    ],
-    "featuresEn": [
-      "Analysis utilities",
-      "Clear version details",
-      "Download file can be linked"
-    ],
-    "requirements": "حسب إصدار الأداة",
-    "requirementsEn": "Depends on the tool version",
-    "downloadUrl": "",
-    "fileName": "FibonacciTools.zip",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف المنتج."
-  },
-  {
-    "id": "windows-tools",
-    "name": "Windows 11 Tools",
-    "category": "windows",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "Windows 11",
-    "type": "software",
-    "featured": true,
-    "image": "assets/images/products/windows-tools.svg",
-    "description": "قسم مخصص لبرامج وأدوات Windows. استبدل البيانات التجريبية بتفاصيل البرنامج الفعلية قبل إتاحته.",
-    "descriptionEn": "A section for Windows utilities and software. Replace this sample content with the actual program details before release.",
-    "features": [
-      "معلومات التوافق",
-      "تعليمات التثبيت",
-      "تنزيل البرنامج من رابط موثوق"
-    ],
-    "featuresEn": [
-      "Compatibility information",
-      "Installation instructions",
-      "Download from a trusted link"
-    ],
-    "requirements": "Windows 11 (تحقق من متطلبات البرنامج)",
-    "requirementsEn": "Windows 11 (verify the software requirements)",
-    "downloadUrl": "",
-    "fileName": "WindowsTools.zip",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف البرنامج."
-  },
-  {
-    "id": "chart-capture",
-    "name": "Chart Capture",
-    "category": "trading-tools",
-    "version": "1.0",
-    "updated": "2026-10-21",
-    "platform": "Windows",
-    "type": "utility",
-    "featured": false,
-    "image": "assets/images/products/chart-capture.svg",
-    "description": "مساحة لعرض أداة التقاط صور الرسوم البيانية. حدّث التفاصيل ورابط التنزيل قبل النشر.",
-    "descriptionEn": "A listing for a chart screenshot utility. Update the details and download URL before publishing.",
-    "features": [
-      "وصف الأداة",
-      "متطلبات التشغيل",
-      "رابط تنزيل مباشر"
-    ],
-    "featuresEn": [
-      "Tool description",
-      "System requirements",
-      "Direct download link"
-    ],
-    "requirements": "Windows",
-    "requirementsEn": "Windows",
-    "downloadUrl": "",
-    "fileName": "ChartCapture.zip",
-    "downloadNote": "أضف رابط GitHub Releases في data/products.json بعد رفع ملف البرنامج."
+    "requirements": "MetaTrader 5 على Windows. يرجى التأكد من توافق الملف مع إصدار منصتك.",
+    "requirementsEn": "MetaTrader 5 on Windows. Please confirm compatibility with your terminal build.",
+    "downloadUrl": "https://github.com/anwarbadran/Forex/releases/download/mt5-v2.00/Anwar%20Badran%20Scalping%205m%20MT5%20Tickmill%20ver2_00.ex5",
+    "fileName": "Anwar Badran Scalping 5m MT5 Tickmill ver2_00.ex5",
+    "downloadNote": "سيبدأ التنزيل مباشرة بعد نشر ملف الإصدار على GitHub Releases باستخدام الوسم mt5-v2.00."
   }
 ]

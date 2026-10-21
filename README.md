@@ -53,3 +53,13 @@
 - لا يحتوي على نموذج تواصل وهمي؛ أضف خدمة إرسال حقيقية إذا أردت نموذجًا يرسل رسائل.
 - الموقع لا يضمن أمان الملفات المرفوعة تلقائيًا؛ افحص الملفات وتأكد من سلامتها قبل توزيعها.
 - لا توجد رسوم على استضافة صفحات الموقع عبر GitHub Pages ضمن حدود وشروط GitHub الحالية.
+
+
+## Product download setup
+
+The product cards are configured for direct GitHub Release asset downloads (the visitor clicks Download on the website and does not need to open the Releases page). Publish the following assets with these exact tag names and filenames:
+
+- Tag `mt4-v2.04` — `Anwar Badran Scalping 5m MT4 Tickmill ver2_04.ex4`
+- Tag `mt5-v2.00` — `Anwar Badran Scalping 5m MT5 Tickmill ver2_00.ex5`
+
+The asset URLs in `data/products.json` are preconfigured for those tags and filenames. A download will work after the corresponding Release and asset are published. Do not upload private files or credentials.
