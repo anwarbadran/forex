@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b45"/><stop offset="1" stop-color="#07111f"/></linearGradient></defs>
+<rect width="640" height="400" rx="28" fill="url(#bg)"/>
+<g stroke="#24445d" stroke-width="1"><path d="M50 80H590M50 140H590M50 200H590M50 260H590M50 320H590"/><path d="M100 50V350M180 50V350M260 50V350M340 50V350M420 50V350M500 50V350"/></g>
+<g stroke="#18c7f5" stroke-width="5" stroke-linecap="round"><path d="M115 265V175M100 210H130"/><path d="M205 240V130M190 175H220"/><path d="M295 215V100M280 155H310"/><path d="M385 175V80M370 125H400"/><path d="M475 150V65M460 105H490"/></g>
+<path d="M65 300L160 255L250 230L340 165L430 140L555 90" fill="none" stroke="#18c7f5" stroke-width="4" opacity=".85"/>
+<rect x="420" y="285" width="150" height="55" rx="14" fill="#102f4a" stroke="#18c7f5" stroke-opacity=".6"/>
+<text x="495" y="320" font-family="Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#f4f8ff">MT4</text>
+<text x="50" y="55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#a9bfd3">ANWAR BADRAN</text>
+</svg>

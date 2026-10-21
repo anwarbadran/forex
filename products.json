@@ -1,0 +1,64 @@
+[
+  {
+    "id": "anwar-badran-scalping-mt4",
+    "name": "Anwar Badran Scalping 5m MT4 Tickmill",
+    "nameEn": "Anwar Badran Scalping 5m MT4 Tickmill",
+    "category": "mt4",
+    "version": "2.04",
+    "updated": "2026-10-22",
+    "platform": "MetaTrader 4",
+    "type": "indicator",
+    "featured": true,
+    "image": "assets/images/products/scalping-mt4.svg",
+    "description": "مؤشر تداول لمستخدمي MetaTrader 4، موجه للعمل على إطار الخمس دقائق ضمن بيئة Tickmill المستهدفة. أداة مساعدة للتحليل ومتابعة السوق؛ لا تضمن النتائج ولا تستبدل حكم المتداول وإدارة المخاطر.",
+    "descriptionEn": "A trading indicator for MetaTrader 4 users, intended for the 5-minute timeframe in the target Tickmill environment. It is an aid for market analysis and monitoring; it does not guarantee outcomes or replace trader judgment and risk management.",
+    "features": [
+      "متوافق مع منصة MetaTrader 4",
+      "إطار التداول المستهدف: 5 دقائق",
+      "الإصدار 2.04",
+      "رابط تنزيل مباشر من GitHub Releases"
+    ],
+    "featuresEn": [
+      "For MetaTrader 4",
+      "Intended timeframe: 5 minutes",
+      "Version 2.04",
+      "Direct download from GitHub Releases"
+    ],
+    "requirements": "MetaTrader 4 على Windows. يرجى التأكد من توافق الملف مع إصدار منصتك.",
+    "requirementsEn": "MetaTrader 4 on Windows. Please confirm compatibility with your terminal build.",
+    "downloadUrl": "https://github.com/anwarbadran/Forex/releases/download/mt4-v2.04/Anwar.Badran.Scalping.5m.MT4.Tickmill.ver2_04.ex4",
+    "fileName": "Anwar Badran Scalping 5m MT4 Tickmill ver2_04.ex4",
+    "downloadNote": "سيبدأ تنزيل ملف MT4 مباشرة من GitHub Releases."
+  },
+  {
+    "id": "anwar-badran-scalping-mt5",
+    "name": "Anwar Badran Scalping 5m MT5 Tickmill",
+    "nameEn": "Anwar Badran Scalping 5m MT5 Tickmill",
+    "category": "mt5",
+    "version": "2.00",
+    "updated": "2026-10-22",
+    "platform": "MetaTrader 5",
+    "type": "indicator",
+    "featured": true,
+    "image": "assets/images/products/scalping-mt5.svg",
+    "description": "مؤشر تداول لمستخدمي MetaTrader 5، موجه للعمل على إطار الخمس دقائق ضمن بيئة Tickmill المستهدفة. أداة مساعدة للتحليل ومتابعة السوق؛ لا تضمن النتائج ولا تستبدل حكم المتداول وإدارة المخاطر.",
+    "descriptionEn": "A trading indicator for MetaTrader 5 users, intended for the 5-minute timeframe in the target Tickmill environment. It is an aid for market analysis and monitoring; it does not guarantee outcomes or replace trader judgment and risk management.",
+    "features": [
+      "متوافق مع منصة MetaTrader 5",
+      "إطار التداول المستهدف: 5 دقائق",
+      "الإصدار 2.00",
+      "رابط تنزيل مباشر من GitHub Releases"
+    ],
+    "featuresEn": [
+      "For MetaTrader 5",
+      "Intended timeframe: 5 minutes",
+      "Version 2.00",
+      "Direct download from GitHub Releases"
+    ],
+    "requirements": "MetaTrader 5 على Windows. يرجى التأكد من توافق الملف مع إصدار منصتك.",
+    "requirementsEn": "MetaTrader 5 on Windows. Please confirm compatibility with your terminal build.",
+    "downloadUrl": "https://github.com/anwarbadran/Forex/releases/download/mt5-v2.00/Anwar.Badran.Scalping.5m.MT5.Tickmill.ver2_00.ex5",
+    "fileName": "Anwar Badran Scalping 5m MT5 Tickmill ver2_00.ex5",
+    "downloadNote": "سيبدأ تنزيل ملف MT5 مباشرة من GitHub Releases."
+  }
+]
