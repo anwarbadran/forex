@@ -47,3 +47,15 @@
   .site-risk-inner p { flex: 1 1 calc(100% - 40px); }
   .site-risk-inner a { margin-inline-start: 35px; }
 }
+
+
+/* Social media contact cards */
+.social-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:26px}
+.social-card{display:flex;align-items:center;gap:16px;min-width:0;padding:22px;color:var(--text,#eef5ff);text-decoration:none;background:linear-gradient(145deg,rgba(17,37,58,.98),rgba(10,25,41,.98));border:1px solid var(--border,rgba(104,151,190,.2));border-radius:17px;transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
+.social-card:hover{transform:translateY(-3px);border-color:rgba(37,213,255,.45);box-shadow:0 14px 32px rgba(0,0,0,.2)}
+.social-icon{display:grid;place-items:center;flex:0 0 54px;width:54px;height:54px;border-radius:15px;background:rgba(22,134,255,.12);color:#fff}
+.social-icon svg{width:25px;height:25px;fill:currentColor}
+.social-youtube .social-icon{background:rgba(255,0,0,.13);color:#ff4d5d}.social-tiktok .social-icon{background:rgba(255,255,255,.09);color:#f5fbff}.social-facebook .social-icon{background:rgba(24,119,242,.16);color:#5c9eff}.social-telegram .social-icon{background:rgba(37,161,221,.15);color:#38bdf8}
+.social-copy{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1}.social-copy strong{font-size:16px;line-height:1.5}.social-copy small{color:var(--muted,#9fb2c7);font-size:12px;line-height:1.7}.social-arrow{color:var(--cyan,#25d5ff);font-size:23px;line-height:1}
+html[dir="rtl"] .social-arrow{transform:scaleX(-1)}
+@media(max-width:680px){.social-grid{grid-template-columns:1fr;gap:12px}.social-card{padding:17px;gap:13px}.social-icon{flex-basis:48px;width:48px;height:48px;border-radius:13px}.social-copy strong{font-size:14px}.social-copy small{font-size:11px}}
