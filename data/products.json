@@ -26,9 +26,9 @@
     ],
     "requirements": "MetaTrader 4 على Windows. يرجى التأكد من توافق الملف مع إصدار منصتك.",
     "requirementsEn": "MetaTrader 4 on Windows. Please confirm compatibility with your terminal build.",
-    "downloadUrl": "https://github.com/anwarbadran/Forex/releases/download/mt4-v2.04/Anwar%20Badran%20Scalping%205m%20MT4%20Tickmill%20ver2_04.ex4",
+    "downloadUrl": "https://github.com/anwarbadran/forex/releases/download/mt4-v2.04/Anwar.Badran.Scalping.5m.MT4.Tickmill.ver2_04.ex4",
     "fileName": "Anwar Badran Scalping 5m MT4 Tickmill ver2_04.ex4",
-    "downloadNote": "سيبدأ التنزيل مباشرة بعد نشر ملف الإصدار على GitHub Releases باستخدام الوسم mt4-v2.04."
+    "downloadNote": "سيبدأ تنزيل ملف MT4 مباشرة من GitHub Releases."
   },
   {
     "id": "anwar-badran-scalping-mt5",
@@ -57,8 +57,8 @@
     ],
     "requirements": "MetaTrader 5 على Windows. يرجى التأكد من توافق الملف مع إصدار منصتك.",
     "requirementsEn": "MetaTrader 5 on Windows. Please confirm compatibility with your terminal build.",
-    "downloadUrl": "https://github.com/anwarbadran/Forex/releases/download/mt5-v2.00/Anwar%20Badran%20Scalping%205m%20MT5%20Tickmill%20ver2_00.ex5",
+    "downloadUrl": "https://github.com/anwarbadran/forex/releases/download/mt5-v2.00/Anwar.Badran.Scalping.5m.MT5.Tickmill.ver2_00.ex5",
     "fileName": "Anwar Badran Scalping 5m MT5 Tickmill ver2_00.ex5",
-    "downloadNote": "سيبدأ التنزيل مباشرة بعد نشر ملف الإصدار على GitHub Releases باستخدام الوسم mt5-v2.00."
+    "downloadNote": "سيبدأ تنزيل ملف MT5 مباشرة من GitHub Releases."
   }
 ]
